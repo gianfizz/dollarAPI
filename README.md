@@ -1,0 +1,3 @@
+# dollarAPI
+Dollar "blue"in Argentina
+If you are Argentinian you'll know what this API is for...
